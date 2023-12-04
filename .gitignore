@@ -1,0 +1,5 @@
+files/id_rsa.pub
+loadbalance/terraform.tfstate
+loadbalance/.terraform/modules/modules.json
+loadbalance/.terraform.lock.hcl
+loadbalance/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.32.0/linux_amd64/terraform-provider-digitalocean_v2.32.0
