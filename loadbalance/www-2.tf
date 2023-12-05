@@ -1,13 +1,7 @@
-# Create a new SSH key
-#resource "digitalocean_ssh_key" "Terraform" {
-#  name       = "Terraform"
-#  public_key = file("/home/kali/git/Terraform/files/id_rsa.pub")
-#} 
-
- # Create a new Droplet using the SSH key
-resource "digitalocean_droplet" "www-1" {
+# Create a new Droplet using the SSH key
+resource "digitalocean_droplet" "www-2" {
   image = "ubuntu-20-04-x64"
-  name = "www-1"
+  name = "www-2"
   region = "nyc3"
   size = "s-1vcpu-1gb"
   ssh_keys = [
