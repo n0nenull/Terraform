@@ -3,3 +3,17 @@ loadbalance/terraform.tfstate
 loadbalance/.terraform/modules/modules.json
 loadbalance/.terraform.lock.hcl
 loadbalance/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.32.0/linux_amd64/terraform-provider-digitalocean_v2.32.0
+loadbalance/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.32.0/linux_amd64/README.md
+loadbalance/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.32.0/linux_amd64/LICENSE
+.gitignore
+loadbalance/terraform.tfstate.backup
+loadbalance/terraform.tfplan
+files/id_rsa
+loadbalance/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.32.0/linux_amd64/CHANGELOG.md
+.gitignore
+AWS/.terraform.lock.hcl
+AWS/terraform.tfstate
+AWS/.terraform/providers/registry.terraform.io/hashicorp/aws/4.67.0/linux_amd64/terraform-provider-aws_v4.67.0_x5
+AWS/.terraform/modules/modules.json
+AWS/terraform.tfstate.backup
+.gitignore
